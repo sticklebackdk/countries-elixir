@@ -4,8 +4,6 @@ ISO 3166-1 country codes and names.
 
 ## Installation
 
-
-
 ```elixir
 def deps do
   [
