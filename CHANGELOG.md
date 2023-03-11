@@ -10,3 +10,7 @@ Initial release
 - Added legacy alpha-3 code "ROM" for Romania
 - Added functions to get country by legacy alpha-3 code
 - Added informal short names for UK and USA
+
+# 0.1.2 (2023-03-11)
+
+- Changed "informal_short_name" to "informal_name"

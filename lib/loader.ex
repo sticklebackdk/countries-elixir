@@ -17,7 +17,7 @@ defmodule Loader do
     %Country{
       name: country["name"],
       full_name: country["full_name"],
-      informal_short_name: country["informal_short_name"],
+      informal_name: country["informal_name"],
       alpha_2: country["alpha_2"],
       alpha_3: country["alpha_3"],
       legacy_alpha_3: country["legacy_alpha_3"],

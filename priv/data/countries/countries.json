@@ -1875,7 +1875,7 @@
   {
     "name": "United Kingdom of Great Britain and Northern Ireland (the)",
     "full_name": "The United Kingdom of Great Britain and Northern Ireland",
-    "informal_short_name": "United Kingdom (UK)",
+    "informal_name": "United Kingdom (UK)",
     "alpha_2": "GB",
     "alpha_3": "GBR",
     "numeric": "826",
@@ -1892,7 +1892,7 @@
   {
     "name": "United States of America (the)",
     "full_name": "The United States of America",
-    "informal_short_name": "United States (US)",
+    "informal_name": "United States (US)",
     "alpha_2": "US",
     "alpha_3": "USA",
     "numeric": "840",
