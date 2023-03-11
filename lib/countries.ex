@@ -38,8 +38,23 @@ defmodule Countries do
     get_by_alpha_3(alpha_3) || raise(ArgumentError, "No country with alpha-3 code #{alpha_3}")
   end
 
-  # -- Load countries from JSON once on compile time ---
+  @doc """
+  Returns the country with the given legacy alpha-3 code. Returns `nil` if no country
+  """
+  def get_by_legacy_alpha_3(legacy_alpha_3) do
+    countries()
+    |> Enum.find(fn country -> country.legacy_alpha_3 == legacy_alpha_3 end)
+  end
 
+  @doc """
+  Returns the country with the given legacy alpha-3 code. Raises `ArgumentError` if no country
+  """
+  def get_by_legacy_alpha_3!(legacy_alpha_3) do
+    get_by_legacy_alpha_3(legacy_alpha_3) ||
+      raise(ArgumentError, "No country with legacy alpha-3 code #{legacy_alpha_3}")
+  end
+
+  # -- Load countries from JSON once on compile time ---
   @countries Loader.load()
 
   defp countries do
