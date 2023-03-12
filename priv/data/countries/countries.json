@@ -506,6 +506,7 @@
   {
     "name": "Dominican Republic (the)",
     "full_name": "The Dominican Republic",
+    "informal_name": "Dominican Republic",
     "alpha_2": "DO",
     "alpha_3": "DOM",
     "numeric": "214",
@@ -1258,6 +1259,7 @@
   {
     "name": "Netherlands (the)",
     "full_name": "The Kingdom of the Netherlands",
+    "informal_name": "Netherlands",
     "alpha_2": "NL",
     "alpha_3": "NLD",
     "numeric": "528",
@@ -1402,6 +1404,7 @@
   {
     "name": "Philippines (the)",
     "full_name": "The Republic of the Philippines",
+    "informal_name": "Philippines",
     "alpha_2": "PH",
     "alpha_3": "PHL",
     "numeric": "608",
@@ -1867,6 +1870,7 @@
   {
     "name": "United Arab Emirates (the)",
     "full_name": "The United Arab Emirates",
+    "informal_name": "United Arab Emirates (UAE)",
     "alpha_2": "AE",
     "alpha_3": "ARE",
     "numeric": "784",
@@ -1892,7 +1896,7 @@
   {
     "name": "United States of America (the)",
     "full_name": "The United States of America",
-    "informal_name": "United States (US)",
+    "informal_name": "United States of America (USA)",
     "alpha_2": "US",
     "alpha_3": "USA",
     "numeric": "840",

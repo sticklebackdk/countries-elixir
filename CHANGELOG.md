@@ -14,3 +14,7 @@ Initial release
 # 0.1.2 (2023-03-11)
 
 - Changed "informal_short_name" to "informal_name"
+
+# 0.1.3 (2023-03-12)
+
+- Added informal names for The Dominican Republic, The Netherlands, The Philippines, and The United Arab Emirates. Changed the informal name for "The United States (US)" to "The United States of America (USA)".
