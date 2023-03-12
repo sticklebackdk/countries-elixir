@@ -1,6 +1,6 @@
 # Countries
 
-ISO 3166-1 country codes and names.
+This is an elixir module handling ISO 3166-1 country codes and names.
 
 ## Installation
 
