@@ -1,5 +1,9 @@
 # Changes
 
+## 0.1.6 (2023-03-20)
+
+- Added informal name for Comoros
+
 ## 0.1.5 (2023-03-20)
 
 - Additional informal names
