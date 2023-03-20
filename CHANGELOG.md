@@ -1,5 +1,9 @@
 # Changes
 
+## 0.1.5 (2023-03-20)
+
+- Additional informal names
+
 ## 0.1.4 (2023-03-20)
 
 - Removed the option to use legacy alpha-3 codes. (Too narrow use case)

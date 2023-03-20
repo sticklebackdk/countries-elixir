@@ -130,6 +130,7 @@
   {
     "name": "Bahamas (the)",
     "full_name": "The Commonwealth of The Bahamas",
+    "informal_name": "Bahamas",
     "alpha_2": "BS",
     "alpha_3": "BHS",
     "numeric": "044",
@@ -210,6 +211,7 @@
   {
     "name": "Bolivia (Plurinational State of)",
     "full_name": "The Plurinational State of Bolivia",
+    "informal_name": "Bolivia",
     "alpha_2": "BO",
     "alpha_3": "BOL",
     "numeric": "068",
@@ -330,6 +332,7 @@
   {
     "name": "Cayman Islands (the)",
     "full_name": "The Cayman Islands",
+    "informal_name": "Cayman Islands",
     "alpha_2": "KY",
     "alpha_3": "CYM",
     "numeric": "136",
@@ -338,6 +341,7 @@
   {
     "name": "Central African Republic (the)",
     "full_name": "The Central African Republic",
+    "informal_name": "Central African Republic",
     "alpha_2": "CF",
     "alpha_3": "CAF",
     "numeric": "140",
@@ -410,6 +414,7 @@
   {
     "name": "Congo (the)",
     "full_name": "The Republic of the Congo",
+    "informal_name": "Congo",
     "alpha_2": "CG",
     "alpha_3": "COG",
     "numeric": "178",
@@ -587,6 +592,7 @@
   {
     "name": "Faroe Islands (the)",
     "full_name": "The Faroe Islands",
+    "informal_name": "Faroe Islands",
     "alpha_2": "FO",
     "alpha_3": "FRO",
     "numeric": "234",
@@ -651,6 +657,7 @@
   {
     "name": "Gambia (the)",
     "full_name": "The Republic of The Gambia",
+    "informal_name": "Gambia",
     "alpha_2": "GM",
     "alpha_3": "GMB",
     "numeric": "270",
@@ -843,6 +850,7 @@
   {
     "name": "Iran (Islamic Republic of)",
     "full_name": "The Islamic Republic of Iran",
+    "informal_name": "Iran",
     "alpha_2": "IR",
     "alpha_3": "IRN",
     "numeric": "364",
@@ -979,6 +987,7 @@
   {
     "name": "Lao People's Democratic Republic (the)",
     "full_name": "The Lao People's Democratic Republic",
+    "informal_name": "Laos",
     "alpha_2": "LA",
     "alpha_3": "LAO",
     "numeric": "418",
@@ -1171,6 +1180,7 @@
   {
     "name": "Moldova (the Republic of)",
     "full_name": "The Republic of Moldova",
+    "informal_name": "Moldova",
     "alpha_2": "MD",
     "alpha_3": "MDA",
     "numeric": "498",
@@ -1364,6 +1374,7 @@
   {
     "name": "Palestine, State of",
     "full_name": "The State of Palestine",
+    "informal_name": "Palestine",
     "alpha_2": "PS",
     "alpha_3": "PSE",
     "numeric": "275",
@@ -1469,6 +1480,7 @@
   {
     "name": "Russian Federation (the)",
     "full_name": "The Russian Federation",
+    "informal_name": "Russia",
     "alpha_2": "RU",
     "alpha_3": "RUS",
     "numeric": "643",
@@ -1613,6 +1625,7 @@
   {
     "name": "Sint Maarten (Dutch part)",
     "full_name": "Sint Maarten",
+    "informal_name": "Sint Maarten",
     "alpha_2": "SX",
     "alpha_3": "SXM",
     "numeric": "534",
@@ -1757,6 +1770,7 @@
   {
     "name": "Tanzania, the United Republic of",
     "full_name": "The United Republic of Tanzania",
+    "informal_name": "Tanzania",
     "alpha_2": "TZ",
     "alpha_3": "TZA",
     "numeric": "834",
@@ -1837,6 +1851,7 @@
   {
     "name": "Turks and Caicos Islands (the)",
     "full_name": "The Turks and Caicos Islands",
+    "informal_name": "Turks and Caicos",
     "alpha_2": "TC",
     "alpha_3": "TCA",
     "numeric": "796",
@@ -1928,6 +1943,7 @@
   {
     "name": "Venezuela (Bolivarian Republic of)",
     "full_name": "The Bolivarian Republic of Venezuela",
+    "informal_name": "Venezuela",
     "alpha_2": "VE",
     "alpha_3": "VEN",
     "numeric": "862",
