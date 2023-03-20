@@ -9,7 +9,6 @@ defmodule Country do
           informal_name: String.t() | nil,
           alpha_2: String.t(),
           alpha_3: String.t(),
-          legacy_alpha_3: String.t() | nil,
           numeric: String.t(),
           tld: String.t()
         }
@@ -21,6 +20,5 @@ defmodule Country do
     :numeric,
     :tld,
     informal_name: nil,
-    legacy_alpha_3: nil
   ]
 end
