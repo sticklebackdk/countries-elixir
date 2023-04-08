@@ -1,5 +1,9 @@
 # Changes
 
+## 0.1.7 (2023-04-08)
+
+- Changed short name (ISO update notification)
+
 ## 0.1.6 (2023-03-20)
 
 - Added informal name for Comoros
