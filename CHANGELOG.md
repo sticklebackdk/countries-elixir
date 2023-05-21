@@ -1,5 +1,10 @@
 # Changes
 
+## 0.1.8 (2023-05-21
+
+- Added Kosovo (not officially recognized by ISO)
+- Erlang version 25.3.2
+
 ## 0.1.7 (2023-04-08)
 
 - Changed short name (ISO update notification)

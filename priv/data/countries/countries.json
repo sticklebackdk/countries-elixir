@@ -970,6 +970,15 @@
     "tld": ".kr"
   },
   {
+    "name": "Kosovo (the Republic of)",
+    "full_name": "The Republic of Kosovo",
+    "informal_name": "Kosovo",
+    "alpha_2": "XK",
+    "alpha_3": "XXK",
+    "numeric": "926",
+    "tld": ".xk"
+  },
+  {
     "name": "Kuwait",
     "full_name": "The State of Kuwait",
     "alpha_2": "KW",
